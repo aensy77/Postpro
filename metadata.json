@@ -1,0 +1,6 @@
+{
+  "name": "PostPro Studio",
+  "description": "Estudio profesional BBCode, MediaInfo, análisis multimedia local y conexión real con APIs de metadatos y hosts de imágenes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
